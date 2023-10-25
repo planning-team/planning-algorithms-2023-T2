@@ -8,7 +8,7 @@ This repository includes all material used during the course: Class notes, unedi
 > * Teaching Assistant: Timur Akhtyamov
 > * Teaching Assistant: Polina Fedotova
 
-## Lectures at the [YouTube channel](https://www.youtube.com/playlist?list=PLRXYrdEUvBoBds3a1PJ8g5mt122R1hm6o)
+## Lectures
 
  * [L01: Introduction. What is planning?]()
  * [L02: Discrete Planning]()
