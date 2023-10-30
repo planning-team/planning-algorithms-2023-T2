@@ -19,16 +19,16 @@ This repository includes all material used during the course: Class notes, unedi
  * [L05: Discrete Optimal Planning]()
  * [L06: Markov Decision Process]()
  * [L07: Decision Making and Games]()
- * S3: MDP
+ * [S3: MDP]()
  * [S4: Reinforcement Learning]()
  * [L8: Modern Trends in Planning]()
 
 ## Problem Sets
 
 Deadline dates for submitting problem sets, in the folder `PS*`:
- * PS1: Discrete planning (16-November-2021)
- * PS2: Sampling-based planning (27-November-2021)
- * PS3: MDP (11-December-2021)
+ * PS1: Discrete planning (16-November-2023)
+ * PS2: Sampling-based planning (27-November-2023)
+ * PS3: MDP (11-December-2023)
  
 ## Final Course Project
 
