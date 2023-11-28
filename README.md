@@ -18,8 +18,8 @@ This repository includes all material used during the course: Class notes, unedi
  * S2: Sampling
  * [L05: Discrete Optimal Planning]()
  * [L06: Markov Decision Process]()
- * [L07: Decision Making and Games]()
  * [S3: MDP]()
+ * [L07: Decision Making and Games]()
  * [S4: Reinforcement Learning]()
  * [L8: Modern Trends in Planning]()
 
